@@ -1,6 +1,6 @@
 <div align=center>
   
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=JIWONDEV&desc=Front-end&descSize=30&fontAlign=50&fontAlignY=40&color=gradient&)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=JIWON&desc=Front-end&descSize=30&fontAlign=50&fontAlignY=40&color=gradient&)
 
 ## Introduction 
 안녕하세요<br>
