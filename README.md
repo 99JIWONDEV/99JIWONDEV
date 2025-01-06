@@ -4,7 +4,7 @@
 
 ## Introduction 
 안녕하세요<br>
-배우는 것이 즐거운 개발자가 되고 싶은 JIWON입니다. 👨‍💻
+소통을 잘하며, 계속해서 성장하는 개발자가 되고 싶은 JIWON입니다. 👨‍💻
 <br><br><br>
 
 ## Contact Me
